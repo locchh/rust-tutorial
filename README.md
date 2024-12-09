@@ -9,3 +9,5 @@
 # references
 
 https://rustup.rs/
+
+https://github.com/alfredodeza/rust-cli-example
