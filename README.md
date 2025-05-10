@@ -11,3 +11,5 @@
 https://rustup.rs/
 
 https://github.com/alfredodeza/rust-cli-example
+
+https://www.coursera.org/specializations/rust-programming
